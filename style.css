@@ -1,0 +1,13 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.name-highlight{
+    color: rgb(90, 5, 35);
+    width: 500px;
+}
+.falf-wight{
+    width: 40%;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+}
